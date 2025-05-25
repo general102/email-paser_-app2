@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "Alerts": [
+      "alert@",
+      "no-reply@"
+    ],
+    "Newsletters": [
+      "newsletter@",
+      "digest@"
+    ]
+  }
+}
